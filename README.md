@@ -5,6 +5,7 @@ I'm a **Developer** 🚀, currently training in **DevOps** and diving deep into 
 ## 🔧 Tech Stack
 - 🐍 Python | 💎 Ruby on Rails | 🐳 Docker
 - ☁️ Cloud Computing | 🛠️ DevOps Tools
+- 🌐 JavaScript (Next.js, Node.js, Express)
 - 🤖 Bots | 🧠 AI
 
 ## 🌱 What I'm up to:
@@ -13,6 +14,6 @@ I'm a **Developer** 🚀, currently training in **DevOps** and diving deep into 
 - Working on personal projects and sharing my progress
 
 ## 💬 Let's Connect:
-- [LinkedIn](#https://www.linkedin.com/in/braulio-oyarzun/) 💼
+- [LinkedIn](https://www.linkedin.com/in/braulio-oyarzun/) 💼
 
 🌱 Go Vegan!
